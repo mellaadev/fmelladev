@@ -10,12 +10,11 @@ Como siempre me he dicho: "si quieres, puedes". Yo siempre quise aprender a prog
 <h2>Redes Sociales</h2>
 
 
-<img src="https://user-images.githubusercontent.com/92534421/137682203-0ba70b39-31d1-4d7c-a7b8-4a2f42f9600d.png" alt="Icono Twitter" width="30px"/> [Twitter](https://twitter.com/franmelladev)
+<img src="https://user-images.githubusercontent.com/92534421/137682203-0ba70b39-31d1-4d7c-a7b8-4a2f42f9600d.png" alt="Icono Twitter" width="30px"/> [Twitter](https://twitter.com/melladev_)
 <br><br>
-<img src="https://user-images.githubusercontent.com/92534421/137683147-f7c7cd96-5719-4bbf-8ff0-22e59c2cbdfa.png" alt="Icono Instagram" width="20px"/> [Instagram](https://instagram.com/_fraanpola)
 <br><br>
 <img src="https://user-images.githubusercontent.com/92534421/137683337-60dc574d-2648-4a8c-8910-0d0a6def9a13.png" alt="Icono Web" width="20px"/>
-[Página Web](https://franmella.com)
+[Página Web](https://melladev.com)
 
 <h2> Otra Información</h2>
 
